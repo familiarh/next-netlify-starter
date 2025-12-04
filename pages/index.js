@@ -81,7 +81,12 @@ export default function Home() {
   <p>If you have questions, concerns, or complaints regarding this Privacy Policy or our data handling practices, please contact us at:</p>
   <p>
     📧 <strong>Email:</strong> familiar2stranger@gmail.com<br>
-    🌐 <strong>Website:</strong> https://chatgpt.com/g/g-6789cdc0229c8191bd35b11b10d73364-lal-kitab-astrologer
+    🌐 <strong>Website:</strong> <a
+    href="https://chatgpt.com/g/g-6789cdc0229c8191bd35b11b10d73364-lal-kitab-astrologer"
+    target="_blank"
+    rel="noopener noreferrer">
+    https://chatgpt.com/g/g-6789cdc0229c8191bd35b11b10d73364-lal-kitab-astrologer
+  </a>
   </p>
 
   <h2>10. Consent</h2>
